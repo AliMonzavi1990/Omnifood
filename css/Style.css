@@ -601,6 +601,8 @@ header {
 .social-icon {
   height: 24px;
   width: 24px;
+  filter: brightness(0);
+  opacity: 50%;
 }
 
 .copyright {
