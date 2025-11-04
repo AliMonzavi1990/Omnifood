@@ -13,10 +13,7 @@ Omnifood is a fully responsive food delivery website that demonstrates modern **
 
 ## Technologies
 - HTML5, CSS3, JavaScript (ES6)  
-- Google Fonts & Font Awesome  
-- Netlify for deployment  
+- Google Fonts & Ionicons  
+- Netlify for deployment   
 
-## Installation & Usage
-1. Clone the repository:  
-```bash
-git clone https://github.com/AliMonzavi1990/Omnifood.git
+
